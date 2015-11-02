@@ -1,18 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[Hexo]]></title>
+  <title><![CDATA[ZOJian]]></title>
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-10-25T00:54:54.000Z</updated>
+  <updated>2015-11-02T15:26:23.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name><![CDATA[John Doe]]></name>
+    <name><![CDATA[ZOJian]]></name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[your boom]]></title>
+    <link href="http://yoursite.com/2015/11/02/your-boom/"/>
+    <id>http://yoursite.com/2015/11/02/your-boom/</id>
+    <published>2015-11-02T15:25:14.000Z</published>
+    <updated>2015-11-02T15:26:23.000Z</updated>
+    <content type="html"><![CDATA[<p>[TOC]</p>
+<p>##保健爆炸了</p>
+<p>#文涛爆炸了</p>
+<ul>
+<li>他们都爆炸了</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>[TOC]</p>
+<p>##保健爆炸了</p>
+<p>#文涛爆炸了</p>
+<ul>
+<li>他们都爆炸了</li>
+</ul>
+]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
